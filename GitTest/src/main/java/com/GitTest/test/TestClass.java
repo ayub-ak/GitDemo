@@ -6,7 +6,7 @@ public class TestClass {
 		System.out.println("Git Test 1 to understand how to resolve conflict");
 		System.out.println("New line added");
 		System.out.println("Adding another test code for commit operation");
-
+		System.out.println("Adding thrid line");
 	}
 
 }
